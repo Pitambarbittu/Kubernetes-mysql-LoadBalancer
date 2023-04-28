@@ -6,4 +6,5 @@
 6. kubectl exec --stdin --tty my-sql-deployment-569b9cccc6-jbwz2 -- /bin/bash
 7. kubectl exec --stdin --tty <pod_name> -- /bin/bash
 8. mysql -p
-9. show databases;
+9. Enter the DB password
+10. show databases;
